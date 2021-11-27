@@ -1,0 +1,12 @@
+html {
+    width: 100%;
+    writing-mode: vertical-rl;
+    -webkit-writing-mode: vertical-rl;
+    -moz-writing-mode: vertical-rl;
+    -o-writing-mode: vertical-rl;
+    -epub-writing-mode: vertical-rl;
+}
+
+body {
+    line-height: 180%;
+}
