@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	file, err := os.Open("/Users/nhn/Downloads/list_person_all_extended_utf8.csv")
+	file, err := os.Open("./list_person_all_extended_utf8.csv")
 	if err != nil {
 		panic(err)
 	}
